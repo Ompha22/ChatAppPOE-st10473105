@@ -17,7 +17,7 @@ public class QuickChat {
         System.out.print("First name: ");
         String name = keyboard.nextLine().trim();
        
-        //prompt the user last name
+        //prompt the user to enter their last name
         System.out.print("Last name: ");
         String surname = keyboard.nextLine().trim();
         
