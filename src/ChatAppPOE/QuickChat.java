@@ -28,7 +28,8 @@ public class QuickChat {
         //prompt the user to enter their password
         System.out.print("Password: ");
         String password = keyboard.nextLine();
-
+        
+        //prompt the user to enter their cellphone number (+27)
         System.out.print("Cellphone number (+27): ");
         String cellphone = keyboard.nextLine().trim();
 
