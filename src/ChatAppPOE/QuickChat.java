@@ -24,7 +24,8 @@ public class QuickChat {
         //prompt the user to enter their Username
         System.out.print("Username: ");
         String username = keyboard.nextLine().trim();
-
+        
+        //prompt the user to enter their password
         System.out.print("Password: ");
         String password = keyboard.nextLine();
 
