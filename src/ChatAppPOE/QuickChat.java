@@ -12,7 +12,8 @@ public class QuickChat {
 
         System.out.println("CREATE YOUR ACCOUNT");
         System.out.println("-------------------");
-
+        
+        //prompt the user to enter their first name
         System.out.print("First name: ");
         String name = keyboard.nextLine().trim();
 
